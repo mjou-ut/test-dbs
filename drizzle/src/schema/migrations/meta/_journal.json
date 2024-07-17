@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1721193551180,
+      "tag": "0000_sweet_lyja",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1721196340611,
+      "tag": "0001_gifted_nekra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1721198801483,
+      "tag": "0002_add_default_uuid_to_embeds",
+      "breakpoints": true
+    }
+  ]
+}
